@@ -11,8 +11,7 @@ This is perfect for Agile tariff customers who want to easily see half-hourly el
 - Adds price slots as calendar events (e.g., "Agile: £0.15/kWh").
 - Automatically runs every day at **4:30 PM UK time**.
 - Clears old events daily to keep your calendar clean.
-- Optional: color-code events based on cheap/expensive prices.
-
+- 
 ---
 
 ## 📋 Prerequisites
